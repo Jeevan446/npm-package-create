@@ -1,0 +1,23 @@
+{
+  "name": "maths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs", 
+  "exports": {
+    "import": "./index.mjs",  
+    "require": "./index.cjs"  
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeevan446/npm-package-create.git"
+  },
+  "author": "Jeevan Neupane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeevan446/npm-package-create/issues"
+  },
+  "homepage": "https://github.com/Jeevan446/npm-package-create#readme"  
+}

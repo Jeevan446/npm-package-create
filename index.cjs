@@ -3,8 +3,8 @@ const maths={
         console.log("Hello dai");
     },
     bye:function (){
-        console.log("Bye Bye daiaaaaaa")
+        console.log("Bye Bye daiaaaaaia")
     }
 }
-
+//adding modules
 module.exports=maths;

@@ -3,7 +3,7 @@ const maths={
         console.log("Hello dai");
     },
     bye:function (){
-        console.log("Bye Bye daiaaaaaia")
+        console.log("Bye By")
     }
 }
 //adding modules
